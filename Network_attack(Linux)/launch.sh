@@ -3,3 +3,4 @@ g++ ./line.cpp -o ./line
 ./attack
 rm ./attack
 rm ./line
+clear
