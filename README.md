@@ -5,3 +5,4 @@ A convient attack tool.
 2.Run the `launch.sh`, type in the number of lines you want to launch.  
 3.The attack begins.  
 4.Press `q` to stop it.
+**1500 lines are very high.**
